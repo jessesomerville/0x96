@@ -1,0 +1,27 @@
+author = "Jesse Somerville"
+
+homeTitle    = "Jesse Somerville"
+homeSubtitle = "Security Engineer"
+
+dateform        = "Jan 2, 2006"
+dateformShort   = "Jan 2"
+dateformNum     = "2006-01-02"
+
+themeColor = "#252627"
+
+[favicon.color]
+  mask = "#252627"
+  msapplication = "#252627"
+  theme = "#252627"
+
+[logo]
+  logoMark     = ">"
+  logoText     = "0x96.in"
+
+[[social]]
+  name = "github"
+  url = "https://github.com/jessesomerville"
+
+[[social]]
+  name = "lastfm"
+  url = "https://www.last.fm/user/doug_demagogue"

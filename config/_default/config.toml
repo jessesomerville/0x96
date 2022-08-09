@@ -1,0 +1,17 @@
+baseURL      = "https://0x96.in/"
+title        = "0x96.in"
+languageCode = "en-us"
+theme        = "0x96"
+
+paginate  = 10
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildExpired = false
+buildFuture  = false
+canonifyURLs = true
