@@ -1,13 +1,10 @@
-author = "Jesse Somerville"
-
-homeTitle    = "Jesse Somerville"
-homeSubtitle = "Security Engineer"
-
-dateform        = "Jan 2, 2006"
-dateformShort   = "Jan 2"
-dateformNum     = "2006-01-02"
-
-themeColor = "#252627"
+author        = "Jesse Somerville"
+homeTitle     = "Jesse Somerville"
+homeSubtitle  = "Security Engineer"
+dateform      = "Jan 2, 2006"
+dateformShort = "Jan 2"
+dateformNum   = "2006-01-02"
+themeColor    = "#252627"
 
 [favicon.color]
   mask = "#252627"

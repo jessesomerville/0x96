@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="author" content="{{ .Params.author }}">
-  <meta name="description" content="{{ .Summary | plainify }}" />
+  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.homeTitle }}{{ else }}{{ if .Params.Description }}{{ .Params.Description }}{{ else }}{{ .Summary | plainify }}{{ end }}{{ end }}" />
   <meta name="robots" content="noodp" />
   <meta name="theme-color" content="{{ .Site.Params.themeColor }}" />
   <link rel="canonical" href="{{ .Permalink }}" />
