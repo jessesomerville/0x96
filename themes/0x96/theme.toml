@@ -7,7 +7,7 @@ licenselink = "https://github.com/jessesomerville/0x96/blob/master/themes/0x96/L
 description = "Custom Hugo theme for https://0x96.in"
 tags = []
 features = []
-min_version = "0.41"
+min_version = "0.116.1"
 
 [author]
   name = "Jesse Somerville"
